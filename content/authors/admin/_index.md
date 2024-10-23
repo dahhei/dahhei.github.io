@@ -53,10 +53,10 @@ interests:
 education:
   - area: PhD Mammalian Genetics
     institution: Tufts University | The Jackson Laboratory
-    date_start: 2021-09-01
-    date_end: "Present"
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      Thesis on cv/ml
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
