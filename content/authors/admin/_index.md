@@ -49,14 +49,14 @@ profiles:
 interests:
   - Machine Learning
   - Computer Vision
-  - Genetics
   - Mouse Behavior
+  - Genetics
 
 education:
   - area: PhD Mammalian Genetics
     institution: Tufts University | The Jackson Laboratory
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-09-01
+    date_end: "Present"
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
