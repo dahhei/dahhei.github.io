@@ -26,6 +26,8 @@ role: PhD Candidate
 organizations:
   - name: The Jackson Laboratory
     url: https://www.jax.org/people/jaycee-choi
+  - name: Tufts University
+    url: https://gsbs.tufts.edu/people/student/jaycee-choi
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
