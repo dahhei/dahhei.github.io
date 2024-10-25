@@ -56,7 +56,7 @@ education:
   - area: PhD Mammalian Genetics
     institution: Tufts University | The Jackson Laboratory
     date_start: 2021-09-01
-    date_end: 2026-06-01
+    date_end: ''
     summary: |
       Working on developing a new generation of assays that access cognitive function in the context of aging, utilizing long-term monitoring of mice while they carry out ethological tasks. 
     # button:
@@ -169,4 +169,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD Candidate in the Tufts University and The Jackson Laboratory collaborative Mammalian Genetics program. My research project in Dr. Vivek Kumar's lab is focused on assessing cognitive function and behavior in mice using advanced machine learning and computer vision techniques. 
