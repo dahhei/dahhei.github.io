@@ -58,7 +58,7 @@ education:
     date_start: 2021-09-01
     date_end: ''
     summary: |
-      Working on developing a new generation of assays that access cognitive function in the context of aging, utilizing long-term monitoring of mice while they carry out ethological tasks. 
+      Eeveloping a new generation of assays to assess cognitive function in agoing mice, utilizing ethological tasks and long-term monitoring supported by machine learning. 
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -67,6 +67,7 @@ education:
     date_start: 2017-09-21
     date_end: 2021-06-14
     summary: |
+      Conducted an honors research thesis under Dr. Nate Sutter titled: SINE Retrotransposons Import Polyadenylation Signals to 3'UTRs in Dogs (*Canis familiaris*)
       GPA: 3.74/4.0
 
 work:
@@ -106,34 +107,11 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Machine Learning
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
