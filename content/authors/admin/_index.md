@@ -51,6 +51,7 @@ interests:
   - Computer Vision
   - Mouse Behavior
   - Genetics
+  - Alzheimer's Disease Research
 
 education:
   - area: PhD Mammalian Genetics
@@ -58,7 +59,8 @@ education:
     date_start: 2021-09-01
     date_end: ''
     summary: |
-      Eeveloping a new generation of assays to assess cognitive function in agoing mice, utilizing ethological tasks and long-term monitoring supported by machine learning. 
+      Developing a new generation of assays to assess cognitive function in agoing mice, utilizing ethological tasks and long-term monitoring supported by machine learning. My research is at the intersection of genetics, computer vision, and behavioral analysis.
+
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -71,28 +73,27 @@ education:
       GPA: 3.74/4.0
 
 work:
-  - position: Filler
-    company_name: Filler
-    company_url: ''
+  - position: PhD Researcher
+    company_name: The Jackson Laboratory | Tufts University
+    company_url: https://www.jax.org/people/jaycee-choi
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2021-09-01
     date_end: ''
     summary: |2-
-      Filler
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Developing machine learning pipelines to analyze mouse behavior and cognitive function.
+      - Investigating the genetic basis of neuropsychiatric disorders, with a focus on Alzheimer’s disease.
+      - Integrating advanced computer vision techniques for high-throughput behavioral assays.
+
+  - position: Undergraduate Researcher
+    company_name: La Sierra University
+    company_url: https://lasierra.edu/
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2018-09-01
+    date_end: 2021-06-14
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Conducted bioinformatics and research on dog SINE retrotransposons.
+      - Presented findings at international conferences.
+      - Gained experience in R/Python coding and writing research publications.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -101,7 +102,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: code-bracket
       - name: Data Science
         description: ''
@@ -109,8 +110,12 @@ skills:
         icon: chart-bar
       - name: Machine Learning
         description: ''
-        percent: 40
+        percent: 85
         icon: circle-stack
+      - name: Computer Vision
+        description: ''
+        percent: 80
+        icon: eye
 
 
 # Awards.
